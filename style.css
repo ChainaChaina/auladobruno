@@ -1,0 +1,9 @@
+.diver{
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    margin-left: 40%;
+}
+body{
+    background-color: beige;
+}
